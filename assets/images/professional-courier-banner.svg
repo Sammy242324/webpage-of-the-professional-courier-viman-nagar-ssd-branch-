@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">The Professional Courier Banner</title>
+  <desc id="desc">Decorative branch banner with service text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ed5b2f"/>
+      <stop offset="100%" stop-color="#134e4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="500" fill="url(#bg)"/>
+  <circle cx="1350" cy="80" r="180" fill="rgba(255,255,255,0.10)"/>
+  <circle cx="220" cy="420" r="220" fill="rgba(255,255,255,0.12)"/>
+  <g fill="#ffffff" font-family="Outfit, Arial, sans-serif">
+    <text x="90" y="210" font-size="62" font-weight="700">THE PROFESSIONAL COURIER</text>
+    <text x="90" y="275" font-size="44" font-weight="500">Viman Nagar Branch</text>
+    <text x="90" y="340" font-size="30" font-weight="400">Fast Dispatch | Reliable Tracking | Trusted Local Support</text>
+  </g>
+</svg>

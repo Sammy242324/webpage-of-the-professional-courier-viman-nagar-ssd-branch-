@@ -1,0 +1,16 @@
+{
+  "name": "The Professional Courier Viman Nagar",
+  "short_name": "TPC Viman Nagar",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff8ed",
+  "theme_color": "#ed5b2f",
+  "description": "Official branch website for The Professional Courier Viman Nagar.",
+  "icons": [
+    {
+      "src": "assets/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
